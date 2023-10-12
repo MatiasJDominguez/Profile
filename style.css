@@ -1,0 +1,33 @@
+body{
+    font-family: 'DM Serif Display', serif;
+}
+
+.home{
+    background-color:rgb(57, 91, 100);
+}
+
+.nav-link{
+    color: rgb(165, 201, 202);
+}
+
+.title{
+    color:rgb(44, 51, 51) !important;
+}
+
+.title2{
+    color:rgb(165, 201, 202) !important;
+}
+
+.text{
+    color: rgb(231, 246, 242) !important
+}
+
+.profile{
+    border-radius: 50%;
+    height: 200px;
+}
+
+.btn{
+ background-color:rgb(57, 91, 100);
+ border: 0;
+}
